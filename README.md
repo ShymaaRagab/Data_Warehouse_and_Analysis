@@ -1,0 +1,2 @@
+# Data_Warehouse_and_Analysis
+ DAWA is a Data Warehouse and Analysis project that focuses on data insights related to nutrition. The data was analyzed using two programs, Alteryx and SSIS. Initially, the data was split into two Excel sheets using Alteryx. Each part was then analyzed separately using Alteryx and SSIS. Finally, a star schema 2-dimensional model was created using SQL Server, incorporating the analyzed data from both Alteryx and SSIS.
